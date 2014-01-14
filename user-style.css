@@ -1,0 +1,13 @@
+@-moz-document domain("ojjs.org") {
+	html, body, .header-contents {
+		background-color:#000;
+	}
+
+	p, h1, h2, h3, .heading1, .heading2, .code-heading, .code-subheading, code, li, strong {
+		color:#853 !important;
+	}
+
+	.header-contents {
+		border-bottom:solid 1px #853;
+	}
+}
